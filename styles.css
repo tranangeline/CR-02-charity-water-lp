@@ -65,7 +65,7 @@ body {
 .hero {
   margin-top: 0; /* No extra space at the top */
   height: 100vh;
-  background-image: url('https://cdn2.dropmarkusercontent.com/52043/b11d5ce6fcb6a9a9e2e92fbed5a1bde777c00ddc3601ea26e848e34f48472aa7/preview/Madagascar_2019_CG-4322.jpg?Expires=1751681114&Signature=MlyOr907Ahx6IginDVw-7dmOwIYMXDv0xXNddiBWSN8iDiwxsmZQ2LaXrw2~aXVB3~VKMrlaKtJjn6U7m~zd2MZdZTjW2ZXuGg2TjunOczCj~ipsWxUdWnsfVRSv7eax~Or7m27wXqaHkXFAF09sSTQtIKNv6h0Dg5Tg70uMVzVc1NYbd-XawLPYx1RuuodnEZ4YaVDw~ukpOYu5K~LvRcViPXOja4cpUIJ0CL8u37h5eQGIAxcsZoMNg7E4aE8NiaRMLdd8JlNj93nSSvUApggkG~1JaHYDmRVOgDtcqnRjmc-tpoB8D8H-BXWKQKkcVlhFkpbS~JRP3GSIwmWp5w__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ'); /* Replace with real image later */
+  background-image: url('img/background.png'); /* Replace with real image later */
   background-size: cover;
   background-position: top;
   position: relative;
